@@ -1,0 +1,7 @@
+interface:
+  display_name: "read-paper"
+  short_description: "Assess and explain one academic paper"
+  default_prompt: "Use $read-paper to assess and explain this paper."
+
+policy:
+  allow_implicit_invocation: false
